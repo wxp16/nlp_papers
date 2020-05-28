@@ -6,5 +6,6 @@
 
 
 ## The secret of 0-shot transfer success
-- MULTILINGUAL ALIGNMENT OF CONTEXTUAL WORD REPRESENTATIONS
-- CROSS-LINGUAL ABILITY OF MULTILINGUAL BERT: AN EMPIRICAL STUDY
+- Mutilingual alignment of contextual word representation.  
+-  Cross-lingual ability of multilingual bert: an empirical study
+## Classifier task
